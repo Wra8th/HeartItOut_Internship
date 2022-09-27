@@ -1,0 +1,47 @@
+[type="radio"]:checked+label:after {
+    background-color: red;
+    border: 2px solid red;
+    
+  }
+
+button:hover{
+    color: #01818C;
+}
+
+#drop-down{
+    color: #01818C;
+}
+
+#hamburger-btn{
+  background-color: #01818C;
+  color:white;
+  padding: 20px;
+  margin-top: 3em;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#foot{
+  margin-top: 2em;
+  background-color: #043953;
+  height: 20em;
+  margin-bottom: 1em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#foot-cont{
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+#final-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#coroso{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
